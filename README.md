@@ -9,7 +9,8 @@ The vehicle detects lane markings using infrared sensors and generates steering 
 ## Hardware Setup
 
 - Arduino microcontroller
-- Infrared sensors for lane detection
+- Infrared sensors for lane detectio
+- Ultrasonic sensors for obstacle detection
 - RC car platform
 
 ## Control Logic
@@ -20,7 +21,9 @@ The controller adjusts the steering and speed commands to maintain the vehicle w
 
 ## Repository Structure
 
-src/    Arduino control algorithm implementation
-
-## Author
-Junyoung Choi
+## Team
+- Junyoung Choi
+- InSung Kang
+- SungHwan Jo
+- ChangJun Ku
+- JuHyeong Park
