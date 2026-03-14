@@ -21,6 +21,7 @@ The controller adjusts the steering and speed commands to maintain the vehicle w
 
 ## Repository Structure
 
+src/      Arduino code implementation on rc car to achieve autonomous driving
 ## Team
 - Junyoung Choi
 - InSung Kang
